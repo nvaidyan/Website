@@ -1,0 +1,27 @@
+body {
+   background-color: #111;
+   font-size:125%;
+   color: maroon;
+   margin: 5% auto;
+   width:80%; 
+}
+
+#splash{
+   margin: 0 20%;
+}
+
+#intro{
+  font-family: Georgia;
+  font-size: 500%;
+  background-color: transparent;
+  color:white;
+  border-radius: 5%;  
+}
+
+span.her {
+  color: red;
+  font-size:smaller;
+  font-family: serif;
+}
+
+
